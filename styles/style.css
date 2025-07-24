@@ -202,14 +202,14 @@
   margin-top: 32px;
 }
 
-.events__info-item {
+.event-info__item {
   display: flex;
   align-items: center;
   margin-bottom: 4px;
   font-weight: 500;
 }
 
-.events__info-icon {
+.event-info__icon {
   background-repeat: no-repeat;
   background-position: center;
   margin-right: 12px;
@@ -217,7 +217,7 @@
   height: 24px;
 }
 
-.events__info-text {
+.event-inf__text {
   font-size: 20px;
   font-weight: 500;
   line-height: 30px;
